@@ -1,0 +1,11 @@
+D:\visual studio\prodject\lab_17\lab_17\bin\Debug\lab_17.exe.config
+D:\visual studio\prodject\lab_17\lab_17\bin\Debug\lab_17.exe
+D:\visual studio\prodject\lab_17\lab_17\bin\Debug\lab_17.pdb
+D:\visual studio\prodject\lab_17\lab_17\obj\Debug\lab_17.csproj.AssemblyReference.cache
+D:\visual studio\prodject\lab_17\lab_17\obj\Debug\lab_17.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\prodject\lab_17\lab_17\obj\Debug\lab_17.Properties.Resources.resources
+D:\visual studio\prodject\lab_17\lab_17\obj\Debug\lab_17.csproj.GenerateResource.cache
+D:\visual studio\prodject\lab_17\lab_17\obj\Debug\lab_17.csproj.CoreCompileInputs.cache
+D:\visual studio\prodject\lab_17\lab_17\obj\Debug\lab_17.exe
+D:\visual studio\prodject\lab_17\lab_17\obj\Debug\lab_17.pdb
+D:\visual studio\prodject\lab_17\lab_17\obj\Debug\lab_17.Form1.resources
