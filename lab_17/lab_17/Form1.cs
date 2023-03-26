@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+Створити абстрактний базовий клас Triad з віртуальними методами збільшення на 1. 
+Створити похідні класи Date (Дата) і Time (Час). 
+*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
